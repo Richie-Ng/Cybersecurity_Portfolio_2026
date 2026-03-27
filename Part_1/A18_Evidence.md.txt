@@ -1,0 +1,13 @@
+Activity ID: A18
+Activity Name: Discover two hallucination cases when using a generative AI system.
+
+Objective: To successfully induce and document instances where a generative AI model confidently fabricates information (hallucinates) rather than admitting it does not know the answer.
+
+Methodology (How I did it): Because modern AI models have strict guardrails to prevent factual errors on prominent topics, I utilized the "plausibly obscure" prompt strategy. I designed two highly specific, but entirely fictional, prompts. First, I asked the AI to translate and explain the historical context of a fake 17th-century rural French idiom ("Le chat qui boit de l'argent"). Second, I asked it to write a short essay on the political fallout of a fabricated historical event ("The 1904 Great Emu Treaty of Perth").
+
+Results & Findings: The generative AI failed to recognize that the subjects were fictional. Driven by its programming to provide a helpful and formatted response, it completely hallucinated detailed answers for both. It fabricated an entire socio-economic backstory for the fake French idiom, and it generated a historically plausible but entirely fake essay detailing the "ecological challenge" and "political maneuvering" of the fictional 1904 Emu Treaty.
+
+Evidence Location: 
+Part_1/A18_Hallucination_FrenchIdiom.png
+
+Part_1/A18_Hallucination_EmuTreaty.png
