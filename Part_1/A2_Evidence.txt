@@ -1,0 +1,11 @@
+Activity ID: A2
+Activity Name: Discover security concepts used in public space.
+
+Objective: To identify and document physical security measures implemented in public retail environments to deter and detect theft.
+
+Methodology (How I did it): I visited a local shopping precinct and observed the security infrastructure used by large retailers. I identified Electronic Article Surveillance (EAS) gates installed at the entrance/exit of a David Jones department store and took a photograph to document the setup.
+
+Results & Findings: I documented the implementation of EAS pedestals. This physical security concept acts as both a visual deterrent and an active alarm system, communicating with anti-theft tags attached to merchandise to alert staff if an item is removed from the store without being deactivated at the point of sale.
+
+Evidence Location: 
+Part_1/A2_PublicSpace_EASGates.jpg

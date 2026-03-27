@@ -1,0 +1,11 @@
+Activity ID: A3
+Activity Name: Discover security concepts used in your house.
+
+Objective: To identify and document a physical security measure used for residential access control and perimeter monitoring.
+
+Methodology (How I did it): I inspected the primary entry points of my residence to review existing security hardware. I identified a mechanical door viewer (peephole) installed on the front door and took a photograph from the interior side.
+
+Results & Findings: I documented the use of a wide-angle peephole. This physical security concept provides a crucial layer of access control, allowing the resident to visually authenticate and verify the identity of individuals outside the door before unlocking the deadbolt or granting physical access, thereby maintaining the integrity of the home's perimeter.
+
+Evidence Location: 
+Part_1/A3_House_Peephole.jpg
