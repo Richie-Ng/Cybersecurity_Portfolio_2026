@@ -1,0 +1,11 @@
+Activity ID: A7
+Activity Name: Discover cryptography used in modern networks.
+
+Objective: To identify and document the cryptographic protocols used to secure data in transit across modern wireless networks.
+
+Methodology (How I did it): I accessed the Windows Network & Internet settings and opened the properties dialog for my currently active Wi-Fi connection ("Juno-House"). I captured a screenshot of the Wireless Network Properties window to document the specific security authentication and encryption cipher in use.
+
+Results & Findings: The network properties verify that the connection is secured using WPA3-Personal (Wi-Fi Protected Access 3) alongside AES (Advanced Encryption Standard) encryption. WPA3 is the most current wireless security standard, utilizing Simultaneous Authentication of Equals (SAE) to replace the older pre-shared key exchange. This robust cryptography ensures that network traffic is protected from eavesdropping and makes the connection highly resistant to offline dictionary attacks.
+
+Evidence Location: 
+Part_1/A7_ModernNetworks_WPA3.png
