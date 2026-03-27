@@ -1,0 +1,13 @@
+Activity ID: A23
+Activity Name: Enhance the cybersecurity at your home.
+
+Objective: To improve physical security and access control for sensitive identity documents and offline digital storage media within my residence.
+
+Methodology (How I did it): I identified a vulnerability where highly sensitive physical documents (passport, personal records) and a USB flash drive (inside the envelope) containing important digital backups were left unsecured in a home office environment. To mitigate this risk, I implemented a physical access control measure by relocating these assets into an electronic keypad safe.
+
+Results & Findings: By securing these items inside the electronic safe, I have significantly enhanced the "Confidentiality" and "Integrity" pillars of the CIA Triad for my home network. Physical security is the foundational layer of cybersecurity; protecting the USB drive prevents unauthorized data exfiltration or malware injection via physical access, while securing identity documents prevents them from being used in social engineering or identity theft attacks targeting my digital accounts.
+
+Evidence Location:
+Part_1/A23_Home_Before_Unsecured_Data.jpg
+
+Part_1/A23_Home_After_Secured_In_Safe.png
