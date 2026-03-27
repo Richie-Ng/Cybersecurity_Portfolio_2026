@@ -1,0 +1,11 @@
+Activity ID: A9
+Activity Name: Discover privacy technique used online.
+
+Objective: To identify and document an online privacy technique utilized by modern applications to secure personal communications from interception.
+
+Methodology (How I did it): I opened a secure messaging application (WhatsApp) and initiated a chat window to verify the active privacy protocols protecting the conversation. I captured a screenshot of the platform's security notification, ensuring that personally identifiable information (PII) like the contact's phone number and profile picture were redacted prior to documentation.
+
+Results & Findings: The application prominently utilizes End-to-End Encryption (E2EE) as a core privacy technique. This cryptographic method ensures that the keys required to decrypt the conversation are stored exclusively on the sender's and receiver's local devices. This preserves online privacy by guaranteeing that no third parties—including Internet Service Providers, malicious network eavesdroppers, or even the service provider (Meta) itself—can intercept or read the plaintext contents of the messages.
+
+Evidence Location: 
+Part_1/A9_OnlinePrivacy_WhatsApp_E2EE.png
