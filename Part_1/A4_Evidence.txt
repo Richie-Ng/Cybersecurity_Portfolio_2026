@@ -1,0 +1,12 @@
+Activity ID: A4
+Activity Name: Discover a vulnerable website.
+
+Objective: To identify an intentionally vulnerable web application and document how modern web browsers handle severe cryptographic misconfigurations.
+
+Methodology (How I did it): Operating within a Kali Linux environment, I navigated to badssl.com, an educational domain designed to test browser security. I specifically accessed one of their certificate-flaw subdomains to observe the system's reaction to broken SSL/TLS implementations and captured a screenshot of the resulting security intervention.
+
+Results & Findings: The web browser immediately intercepted the connection, blocking access to the page and displaying a severe security warning regarding the site's certificate.
+
+Vulnerability Justification: This website is fundamentally vulnerable because its SSL/TLS certificate is invalid (e.g., expired, self-signed, or lacking a trusted root authority). A valid certificate is required to establish a secure, encrypted tunnel and to verify the server's true identity. Because this implementation is broken, the connection is highly susceptible to Man-in-the-Middle (MitM) attacks. If a user were to ignore the warning and transmit data (like passwords or session cookies) to this site, an attacker intercepting the network traffic could easily read or alter that data in plain text.
+
+Evidence Location: * Part_1/A4_BadSSL_BrowserWarning.png
