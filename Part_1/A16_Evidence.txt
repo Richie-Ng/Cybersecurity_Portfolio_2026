@@ -1,0 +1,21 @@
+Activity ID: A16
+Activity Name: Discover 3 local security incidents.
+
+Objective: To research and document three recent, significant cybersecurity incidents that directly impacted local Western Australian organizations and infrastructure.
+
+Methodology (How I did it): I conducted Open-Source Intelligence (OSINT) gathering using search engines and local cyber-news publications to identify data breaches and ransomware attacks specific to Western Australia within the last two years. I captured screenshots of the news reports as evidence.
+
+Results & Findings: I identified three major local incidents:
+
+UWA Password Breach (Aug 2025): Unauthorized access to UWA's password systems forced a campus-wide IT lockout and mandatory password resets for all students and staff.
+
+LPBWA Ransomware Attack (May 2025): The Dire Wolf ransomware gang breached the Legal Practice Board of WA, stealing 300GB of sensitive practitioner data and crippling their online services.
+
+Harry Perkins Institute Breach (July 2024): The Perth-based medical research facility suffered a severe breach resulting in the alleged leak of 4TB of internal data.
+
+Evidence Location: 
+Part_1/A16_UWA_Breach.png
+
+Part_1/A16_LPBWA_Breach.png
+
+Part_1/A16_HarryPerkins_Breach.png
