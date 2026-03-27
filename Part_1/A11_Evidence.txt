@@ -1,0 +1,32 @@
+Activity ID: A11
+Activity Name: Discover 5 unique access control devices.
+
+Objective: To identify and categorize various physical access control mechanisms used to restrict entry to physical spaces or secure assets.
+
+Methodology (How I did it): I surveyed various public, residential, and commercial environments to photograph five distinct hardware devices used for physical access control. I focused on finding devices that utilize different authentication factors (e.g., knowledge, possession, inherence).
+
+Results & Findings: I documented the following five devices:
+
+1. Biometric Scanner: Authenticates via inherence ("something you are") by scanning physical traits like fingerprints (biometrics) before granting access through a door.
+
+2. Electronic Keypad: Authenticates via knowledge ("something you know") requiring an authorized user to input a static PIN code to open a perimeter gate.
+
+3. Smart Parcel Locker Kiosk: Authenticates via dynamic knowledge, requiring a courier or recipient to input a temporary, single-use code to open a specific physical locker door.
+
+4. Audio/Video Intercom: A manual access control system requiring secondary human verification. A visitor requests access, and a remote authorized party manually triggers the door strike.
+
+5. RFID Keycard Reader: Authenticates via possession ("something you have"). Users tap an encoded token (smart card) against the reader to unlock the entrance door.
+
+Evidence Location:
+
+Part_1/A11_AccessControl_Biometric.png
+
+Part_1/A11_AccessControl_Keypad.png
+
+Part_1/A11_AccessControl_Keypad's Gate.png
+
+Part_1/A11_AccessControl_ParcelLocker.png
+
+Part_1/A11_AccessControl_Intercom.png
+
+Part_1/A11_AccessControl_Keycard.png
