@@ -1,0 +1,11 @@
+Activity ID: A5
+Activity Name: Discover cryptographic implementation used online.
+
+Objective: To identify and document how data in transit is encrypted and authenticated between a client web browser and a secure commercial web server.
+
+Methodology (How I did it): I navigated to a prominent digital storefront (store.steampowered.com) using a modern web browser. To verify the cryptographic protocols protecting the connection, I interacted with the security padlock icon in the address bar to inspect the site's SSL/TLS certificate details.
+
+Results & Findings: The browser confirmed that the "Connection is secure" and presented a valid digital certificate issued to Valve Corp. This visual indicator proves that the website utilizes Transport Layer Security (TLS) (the modern successor to SSL). This cryptographic implementation utilizes a public key infrastructure (PKI) to establish an encrypted tunnel. Unlike the vulnerable BadSSL site I tested for task A6, this valid implementation guarantees confidentiality and integrity, ensuring that sensitive user data (like passwords and credit card numbers) cannot be intercepted in plaintext by a Man-in-the-Middle (MitM) attacker.
+
+Evidence Location: 
+Part_1/A5_OnlineCrypto_SteamTLS.png
