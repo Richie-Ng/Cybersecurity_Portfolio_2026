@@ -1,0 +1,11 @@
+Activity ID: A6
+Activity Name: Discover cryptographic implementation used offline.
+
+Objective: To identify and document a cryptographic method used to secure data at rest on a local device without relying on a network connection.
+
+Methodology (How I did it): I disconnected my Windows machine from all networks to simulate a completely offline environment. I then navigated to the system's 'Privacy & security' settings to inspect the local data protection configurations. I captured a screenshot showing the active state of the operating system's built-in full-disk encryption tool, while maintaining operational security by redacting my personal account email.
+
+Results & Findings: I verified that Windows Device Encryption (which utilizes BitLocker technology) is actively toggled "On". This offline cryptographic implementation uses the Advanced Encryption Standard (AES) algorithm to encrypt the entire local hard drive. This ensures that "Data at Rest" is protected; if the physical device is lost, stolen, or the hard drive is extracted, the data remains unreadable without the offline cryptographic decryption key.
+
+Evidence Location: 
+Part_1/A6_OfflineCrypto_BitLocker.png
