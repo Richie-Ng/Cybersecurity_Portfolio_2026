@@ -1,0 +1,15 @@
+Activity ID: A29
+Activity Name: Find a publicly available AI-generated image, video, or audio clip, use at least one detection or verification tool to analyse it.
+
+Objective: To practice digital media forensics by sourcing synthetic media and verifying its artificial provenance using specialized machine learning detection algorithms.
+
+Methodology (How I did it): I sourced a publicly available, surreal image from the internet (Reddit) that appeared to have visual anomalies consistent with generative AI. To empirically verify its origin, I processed the image through two independent AI content detection platforms: Hive Moderation and Sightengine.
+
+Results & Findings: The detection tools definitively confirmed the synthetic nature of the media. Hive Moderation scored the image as 99.9% likely to be AI-generated, and Sightengine scored it at 99%. In addition to the algorithmic detection, human visual inspection confirms classic generative AI artifacts, such as the distorted and undefined faces of the background crowd and unnatural structural blending.
+
+Evidence Location: 
+Part_1/A29_AI_OriginalImage.png
+
+Part_1/A29_AIDetection_Hive.png
+
+Part_1/A29_AIDetection_Sightengine.png
