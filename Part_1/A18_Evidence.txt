@@ -10,4 +10,4 @@ Results & Findings: The generative AI failed to recognize that the subjects were
 Evidence Location: 
 Part_1/A18_Hallucination_FrenchIdiom.png
 
-Part_1/A18_Hallucination_EmuTreaty.png
+Part_1/A18_Hallucination_EmuTreaty.png 
