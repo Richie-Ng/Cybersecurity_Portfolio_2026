@@ -1,0 +1,11 @@
+Activity ID: A10
+Activity Name: Discover privacy technique used offline.
+
+Objective: To identify and document a physical environment modification designed to protect sensitive information from unauthorized visual access in a shared space.
+
+Methodology (How I did it): I surveyed a shared workspace/library environment to identify physical privacy measures. I captured a photograph of a study carrel equipped with physical privacy partitions (desk dividers) on the sides and front.
+
+Results & Findings: The photograph demonstrates the use of physical privacy screens. This offline privacy technique directly mitigates the risk of "shoulder surfing" (the act of looking over someone's shoulder to steal data). By physically blocking the line of sight from adjacent or passing individuals, it creates a secure visual perimeter. This allows a user to safely handle confidential physical documents, input passwords, or view sensitive information on a laptop screen without the immediate risk of unauthorized disclosure, thereby enforcing confidentiality in a public area.
+
+Evidence Location: 
+Part_1/A10_OfflinePrivacy_PrivacyScreen.png
