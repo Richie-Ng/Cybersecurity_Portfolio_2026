@@ -1,0 +1,13 @@
+Activity ID: A8
+Activity Name: Discover cryptography used in Internet of Things devices.
+
+Objective: To identify and document the active cryptographic protocols used to secure data on a networked Internet of Things (IoT) device.
+
+Methodology (How I did it): I accessed the touch-panel interface of a networked enterprise printer on the university campus. I navigated through the administrator/utility menus to the "Printer Settings" and then to "Security Setting" to inspect the active cryptographic configurations.
+
+Results & Findings: The device's settings menu confirms that "XPS/OOXML/PDF Digital Signature" is actively toggled ON. This is a direct implementation of cryptography in an IoT endpoint. Digital signatures utilize asymmetric encryption algorithms to guarantee document integrity and non-repudiation. By requiring a digital signature, the printer ensures that print jobs (like sensitive exams or internal university documents) originate from an authenticated source and have not been intercepted or maliciously altered in transit across the campus network.
+
+Evidence Location: 
+Part_1/A8_IoT_CampusPrinter.jpg
+
+Part_1/A8_IoT_PrinterCrypto.jpg
