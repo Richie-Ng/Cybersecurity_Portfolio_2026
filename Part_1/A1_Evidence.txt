@@ -1,0 +1,11 @@
+Activity ID: A1
+Activity Name: Discover security concepts used at your workplace or university.
+
+Objective: To identify and document physical security measures and personnel deployed to protect an organizational environment.
+
+Methodology (How I did it): I observed the physical security infrastructure at my university campus (UWA). I captured a photograph of a uniformed university security officer conducting a mobile patrol in a marked security vehicle along the campus pathways.
+
+Results & Findings: This photograph documents the implementation of mobile security patrols. This represents several core physical security concepts: Deterrence (a highly visible security presence actively discourages malicious or unauthorized activity), Detection (active human monitoring of the campus grounds to spot security breaches or hazards), and Response (personnel are equipped with a vehicle to rapidly deploy to incidents across an expansive campus footprint). This human element acts as a critical layer in the university's overall defense-in-depth strategy.
+
+Evidence Location: 
+Part_1/A1_University_Security_Patrol.png
