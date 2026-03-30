@@ -1,0 +1,23 @@
+Activity ID: A30
+Activity Name: Complete a cybersecurity training module.
+
+Objective: To gain foundational, practical knowledge in cybersecurity concepts by completing interactive, hands-on training modules.
+
+Methodology (How I did it): I enrolled in the "Intro to Cyber Security" learning path on the TryHackMe platform. I systematically worked through and completed all the interactive lessons and exercises within "Module 1: Start Your Cyber Security Journey."
+
+Results & Findings: I successfully completed the entire introductory module, earning completion badges for three distinct rooms:
+
+Offensive Security Intro: Covered the basics of Red Teaming, finding vulnerabilities, and understanding attacker methodologies.
+
+Defensive Security Intro: Covered Blue Teaming concepts, threat intelligence, and defending digital infrastructure.
+
+Search Skills: Developed crucial Open-Source Intelligence (OSINT) capabilities and advanced search techniques necessary for cybersecurity research.
+
+Evidence Location: 
+Part_1/A30_THM_ModuleOverview.png
+
+Part_1/A30_THM_OffensiveIntro.png
+
+Part_1/A30_THM_DefensiveIntro.png
+
+Part_1/A30_THM_SearchSkills.png
