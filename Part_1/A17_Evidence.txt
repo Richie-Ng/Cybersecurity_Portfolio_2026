@@ -1,0 +1,49 @@
+Activity ID: A17
+Activity Name: Discover 10 different types of locks.
+
+Objective: To identify and categorize a wide variety of physical locking mechanisms used to secure different types of assets, vehicles, and perimeters.
+
+Methodology (How I did it): I conducted a physical security audit across multiple environments, including offices, public medical equipment, vehicles, and retail spaces, to photograph 10 distinctly different locking mechanisms.
+
+Results & Findings: I successfully documented the following 10 distinct lock types, representing various security grades and authentication methods (keys, combinations, and purely physical barricades):
+
+1. Cam Lock: A simple cylindrical lock with a rotating metal tailpiece, used here to secure office filing drawers.
+
+2. TSA Luggage Lock: A multi-dial combination lock integrated into a suitcase, featuring a master key override for customs agents.
+
+3. Combination Padlock: A portable rotary-dial lock used here to secure an industrial electrical switch (lockout/tagout).
+
+4. Mechanical Keypad Lock: A keyless, push-button combination lock securing a public-access Defibrillator (AED) enclosure.
+
+5. Cable Lock: A flexible, steel-braided combination lock used to secure a bicycle.
+
+6. U-Lock (D-Lock): A rigid, heavy-duty solid metal shackle lock used for higher-security bicycle parking.
+
+7. Barrel Bolt: A purely physical, sliding metal latch used to barricade a door from one side.
+
+8. Standard Keyed Padlock: A traditional pin-tumbler brass padlock securing a metal utility cage.
+
+9. Tubular/Kensington Lock: A specialized push-button lock utilizing a circular keyway, used here as an anti-theft device for a retail tablet kiosk.
+
+10. Automotive Wafer Lock: A vehicle door cylinder lock utilizing wafer tumblers rather than standard pins, allowing for double-sided car keys.
+
+Evidence Location: 
+Part_1/A17_Lock_CamLock.png
+
+Part_1/A17_Lock_TSALuggage.png
+
+Part_1/A17_Lock_ComboPadlock.png
+
+Part_1/A17_Lock_MechanicalKeypad.png
+
+Part_1/A17_Lock_CableLock.png
+
+Part_1/A17_Lock_ULock.png
+
+Part_1/A17_Lock_BarrelBolt.png
+
+Part_1/A17_Lock_KeyedPadlock.png
+
+Part_1/A17_Lock_TubularKiosk.png
+
+Part_1/A17_Lock_AutomotiveWafer.jpg
