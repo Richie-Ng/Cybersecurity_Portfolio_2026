@@ -1,0 +1,29 @@
+Activity ID: A13
+Activity Name: Discover 5 unique online security tools.
+
+Objective: To identify and document web-based tools and cloud services used to enhance personal privacy, monitor credential compromise, and verify external security postures.
+
+Methodology (How I did it): I researched and interacted with five distinct online cybersecurity tools. I utilized web browsers to access these cloud-hosted utilities, performing active scans and queries to demonstrate their core functionalities.
+
+Results & Findings: I successfully documented the following 5 online security tools:
+
+1. VirusTotal: A cloud-based vulnerability scanner that aggregates dozens of antivirus engines to analyze files and URLs for malicious content (used here to verify a Steam URL).
+
+2. Have I Been Pwned (HIBP): An online threat intelligence database that allows users to query their email addresses against known, public data breaches to monitor for credential compromise.
+
+3. Google Password Manager: A cloud-hosted password management utility integrated into the browser ecosystem, designed to securely generate, encrypt, and store complex credentials.
+
+4. Qualys SSL Labs: A comprehensive SSL/TLS server testing tool that analyzes and grades the cryptographic configuration and certificate chain of web servers (grading the target storefront with an A+).
+
+5. DuckDuckGo: A privacy-focused online search engine built to prevent IP tracking, block third-party data collection, and avoid personalized search profiling.
+
+Evidence Location: 
+Part_1/A13_OnlineTool_VirusTotal.png
+
+Part_1/A13_OnlineTool_HIBP.png
+
+Part_1/A13_OnlineTool_GooglePass.png
+
+Part_1/A13_OnlineTool_SSLLabs.png
+
+Part_1/A13_OnlineTool_DuckDuckGo.png
