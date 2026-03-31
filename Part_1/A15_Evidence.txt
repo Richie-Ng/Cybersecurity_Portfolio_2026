@@ -1,0 +1,29 @@
+Activity ID: A15
+Activity Name: Discover 5 recent security incidents.
+
+Objective: To research and document high-impact cybersecurity breaches from the recent threat landscape (late 2025), demonstrating an understanding of current threat actors, attack vectors, and real-world business impacts.
+
+Methodology (How I did it): I utilized reputable open-source threat intelligence and global news outlets (such as Reuters, The Guardian, and SecurityWeek) to research five major security incidents that occurred in late 2025. I captured screenshots of the reporting to document the attack methods and infrastructure impacts.
+
+Results & Findings: I successfully documented the following 5 recent security incidents:
+
+1. Jaguar Land Rover Ransomware (Sep 2025): A massive cyberattack that forced the shutdown of smart factory IT systems, stalling manufacturing operations across the UK and exposing supply chain vulnerabilities.
+
+2. Collins Aerospace vMUSE Disruption (Sep 2025): A cyberattack on an aviation technology provider that caused cascading failures in check-in and boarding systems, leading to severe flight delays and cancellations at major European airports.
+
+3. Vietnam Airlines Third-Party Breach (Oct 2025): A supply chain data breach where 23 million customer records were leaked onto underground forums following the compromise of the airline's technology partner.
+
+4. Upbit Crypto Exchange Hack (Nov 2025): South Korean authorities suspect the North Korean state-sponsored "Lazarus Group" successfully breached the Upbit exchange, resulting in the theft of roughly $30.4 million in cryptocurrency.
+
+5. OnSolve CodeRED Ransomware (Nov 2025): The "Inc Ransom" gang targeted a third-party emergency alert platform, disrupting critical public safety communications across multiple US states and stealing data.
+
+Evidence Location: 
+Part_1/A15_News_JaguarLandRover.png
+
+Part_1/A15_News_CollinsAerospace.png
+
+Part_1/A15_News_VietnamAirlines.png
+
+Part_1/A15_News_UpbitLazarus.png
+
+Part_1/A15_News_OnSolveCodeRED.png
