@@ -1,0 +1,29 @@
+Activity ID: A12
+Activity Name: Discover 5 unique offline security tools.
+
+Objective: To identify and document offline built-in, locally hosted software utilities that secure a workstation's operating system, network boundaries, and access controls.
+
+Methodology (How I did it): I audited my local Windows workstation to identify native OS-level security features. I navigated through the Windows settings and administrative tools to capture the interfaces of five distinct offline security controls.
+
+Results & Findings: I successfully documented the following 5 offline security tools:
+
+1. Virus & threat protection (Windows Defender): The native, offline anti-malware and antivirus engine that actively scans local storage for malicious signatures and anomalous file behavior.
+
+2. Windows Defender Firewall: A local network security tool that monitors and filters incoming and outgoing network traffic based on predefined, system-level security rules.
+
+3. User Account Control (UAC): A mandatory access control feature that mitigates the impact of malware by preventing unauthorized, silent changes to the operating system, requiring explicit administrative approval instead.
+
+4. Windows Sign-in Options: The local authentication manager that governs PINs and biometric access (Windows Hello), enforcing strict identity verification before local desktop access is granted.
+
+5. Event Viewer (Security Logs): An administrative auditing tool that logs local security events—such as successful and failed logon attempts, privilege use, and policy changes—which is vital for offline forensic analysis.
+
+Evidence Location: 
+Part_1/A12_OfflineTool_VirusProtection.png
+
+Part_1/A12_OfflineTool_Firewall.png
+
+Part_1/A12_OfflineTool_UAC.png
+
+Part_1/A12_OfflineTool_SignInOptions.png
+
+Part_1/A12_OfflineTool_EventViewer.png
