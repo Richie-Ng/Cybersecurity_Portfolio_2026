@@ -1,11 +1,17 @@
 Activity ID: A2
 Activity Name: Discover security concepts used in public space.
 
-Objective: To identify and document physical security measures implemented in public retail environments to deter and detect theft.
+Objective: To identify and document physical and electronic security controls deployed in public environments to deter theft and protect physical assets.
 
-Methodology (How I did it): I visited a local shopping precinct and observed the security infrastructure used by large retailers. I identified Electronic Article Surveillance (EAS) gates installed at the entrance/exit of a David Jones department store and took a photograph to document the setup.
+Methodology (How I did it): I surveyed public shopping spaces and captured photographs of two distinct loss-prevention security controls: Electronic Article Surveillance (EAS) gates at a department store entrance, and a live public-facing CCTV monitor inside a supermarket aisle.
 
-Results & Findings: I documented the implementation of EAS pedestals. This physical security concept acts as both a visual deterrent and an active alarm system, communicating with anti-theft tags attached to merchandise to alert staff if an item is removed from the store without being deactivated at the point of sale.
+Results & Findings: These photographs demonstrate two core public security concepts used to combat retail shrinkage:
+
+1. Electronic Article Surveillance (Detection): The EAS pedestals placed at the store perimeter use radio frequency (RF) or acousto-magnetic (AM) technology to detect active security tags on merchandise. They act as a hard boundary, sounding an immediate alarm if unpaid assets cross the threshold.
+
+2. Public Display Monitors (Psychological Deterrence): The ceiling-mounted TV in the supermarket aisle intentionally broadcasts the live CCTV feed back to the public. Instead of hiding the cameras, this environmental design choice maximizes the psychological deterrent effect by making individuals explicitly aware that they are being actively watched and recorded, drastically reducing opportunistic shoplifting.
 
 Evidence Location: 
-Part_1/A2_PublicSpace_EASGates.jpg
+Part_1/A2_PublicSpace_EASGates.png
+
+Part_1/A2_PublicSpace_CCTVMonitor.png
