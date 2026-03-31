@@ -1,11 +1,17 @@
 Activity ID: A3
 Activity Name: Discover security concepts used in your house.
 
-Objective: To identify and document a physical security measure used for residential access control and perimeter monitoring.
+Objective: To identify and document physical and electronic security controls deployed within a residential environment to monitor access, verify identity, and deter unauthorized entry.
 
-Methodology (How I did it): I inspected the primary entry points of my residence to review existing security hardware. I identified a mechanical door viewer (peephole) installed on the front door and took a photograph from the interior side.
+Methodology (How I did it): I surveyed the security measures implemented at my personal residence and captured two photographs documenting different layers of access control and surveillance: a traditional optical peephole on a primary access door and a ceiling-mounted dome CCTV camera.
 
-Results & Findings: I documented the use of a wide-angle peephole. This physical security concept provides a crucial layer of access control, allowing the resident to visually authenticate and verify the identity of individuals outside the door before unlocking the deadbolt or granting physical access, thereby maintaining the integrity of the home's perimeter.
+Results & Findings: These photographs demonstrate a multi-layered approach to residential security using both physical and electronic concepts:
+
+1. Optical Peephole (Identity Verification & Access Control): A fundamental physical security control that allows residents to visually verify the identity of individuals requesting access before disengaging the primary locks. This mitigates the risk of forced entry or social engineering attempts (like a malicious actor posing as a delivery driver) without exposing the resident to a direct physical threat.
+
+2. CCTV Dome Camera (Electronic Surveillance & Deterrence): The ceiling-mounted camera provides continuous electronic monitoring and recording of the residential space. Beyond creating a verifiable audit trail for post-incident investigations, the "dome" housing acts as a strong psychological deterrent. Because it obscures the exact directional facing of the lens, potential threat actors must assume they are being recorded from multiple angles.
 
 Evidence Location: 
-Part_1/A3_House_Peephole.jpg
+Part_1/A3_House_Peephole.png
+
+Part_1/A3_House_CCTVDome.png
