@@ -1,0 +1,29 @@
+Activity ID: A14
+Activity Name: Discover 5 AI-enabled security solutions.
+
+Objective: To identify and document modern enterprise cybersecurity platforms that utilize Artificial Intelligence (AI) and Machine Learning (ML) to enhance threat detection and autonomous response.
+
+Methodology (How I did it): I researched top-tier cybersecurity vendors and captured screenshots of five distinct commercial platforms that heavily advertise the integration of AI/ML into their core security architectures.
+
+Results & Findings: I successfully documented the following 5 AI-enabled security solutions:
+
+1. Darktrace: Uses "Cyber AI" to learn normal network patterns and autonomously interrupt anomalous, potentially malicious behavior.
+
+2. CrowdStrike Falcon: An Endpoint Detection and Response (EDR) platform that uses behavioral AI to stop zero-day malware without relying on traditional virus signatures.
+
+3. Microsoft Security Copilot: A generative AI assistant that helps security analysts summarize threat intelligence and reverse-engineer malicious scripts using natural language processing.
+
+4. Abnormal Security: A cloud-based email security platform that uses behavioral AI to detect and block advanced phishing and Business Email Compromise (BEC) attacks.
+
+5. Palo Alto Networks Cortex XSIAM: An AI-driven Security Operations Center (SOC) platform that utilizes machine learning to autonomously ingest data, detect complex threats, and orchestrate incident response.
+
+Evidence Location: 
+Part_1/A14_AI_Darktrace.png
+
+Part_1/A14_AI_CrowdStrike.png
+
+Part_1/A14_AI_MSCopilot.png
+
+Part_1/A14_AI_AbnormalSecurity.png
+
+Part_1/A14_AI_CortexXSIAM.png
