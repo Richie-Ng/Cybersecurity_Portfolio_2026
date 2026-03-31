@@ -1,0 +1,11 @@
+Activity ID: A24
+Activity Name: Teach your family about a cybersecurity topic of your choice.
+
+Objective: To help teach and translate technical cybersecurity concepts into accessible, actionable advice for non-technical family members to improve their personal security hygiene.
+
+Methodology (How I did it): I conducted an informal security awareness training session with my younger brother, Erick, via a Discord text conversation. We discussed the mechanics of phishing attacks disguised as in-game currency generators (e.g., free V-Bucks scams) that specifically target younger gaming demographics.
+
+Results & Findings: I explained how threat actors use socially engineered, spoofed login pages to harvest gaming credentials, which can lead to account takeovers and the theft of valuable digital assets. To practically apply this lesson, I explained the importance of Defense in Depth and guided him to enable Two-Factor Authentication (2FA) in his account settings. This ensures that his account is protected by an additional verification layer, mitigating the threat even if a password is inadvertently compromised via a malicious link.
+
+Evidence Location: 
+Part_1/A24_FamilyTeaching.png
