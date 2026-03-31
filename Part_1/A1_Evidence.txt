@@ -1,11 +1,17 @@
 Activity ID: A1
-Activity Name: Discover security concepts used at your workplace or university.
+Activity Name: Discover security concepts used on campus.
 
-Objective: To identify and document physical security measures and personnel deployed to protect an organizational environment.
+Objective: To identify and document various physical security concepts deployed across a university campus to protect students, staff, and physical assets.
 
-Methodology (How I did it): I observed the physical security infrastructure at my university campus (UWA). I captured a photograph of a uniformed university security officer conducting a mobile patrol in a marked security vehicle along the campus pathways.
+Methodology (How I did it): I observed the physical security infrastructure across the university campus. I captured two photographs documenting distinct but complementary physical security controls: a mobile security patrol vehicle and a stationary emergency call box (Help Point).
 
-Results & Findings: This photograph documents the implementation of mobile security patrols. This represents several core physical security concepts: Deterrence (a highly visible security presence actively discourages malicious or unauthorized activity), Detection (active human monitoring of the campus grounds to spot security breaches or hazards), and Response (personnel are equipped with a vehicle to rapidly deploy to incidents across an expansive campus footprint). This human element acts as a critical layer in the university's overall defense-in-depth strategy.
+Results & Findings: These photographs illustrate a multi-layered, defense-in-depth approach to campus physical security:
+
+1. Mobile Patrols (Deterrence & Detection): The highly visible security personnel in a marked vehicle provide active human monitoring of the campus grounds. This establishes a strong visual presence that actively discourages unauthorized or malicious activity.
+
+2. Emergency Help Point (Communication & Response): The fixed, highly visible emergency call box features an integrated camera and intercom. It provides students and staff with an immediate, hardwired line of communication to the security operations center during a crisis, ensuring the rapid deployment of mobile patrol units to exact locations.
 
 Evidence Location: 
 Part_1/A1_University_Security_Patrol.png
+
+Part_1/A1_CampusSecurity_HelpPoint.png
