@@ -1,0 +1,15 @@
+Activity ID: A19
+Activity Name: Join a CS/DS/cybersecurity club.
+
+Objective: To actively engage with the local computer science and tech community, fostering professional networking, peer collaboration, and industry readiness.
+
+Methodology (How I did it): I officially joined the Computer Science Students Club (CSSC) at the University of Western Australia, receiving the official 2026 membership sticker on my student ID. To maximize the value of this membership, I also participated in their collaborative campus events held on April 1st.
+
+Results & Findings: Joining the CSSC provided an immediate gateway into the university's tech community. By attending club-hosted events, specifically the CSSC Barbecue and the collaborative GD-UWA x CSSC Game Night, I was able to engage in informal networking with my peers. These environments are highly valuable for building relationships with fellow students interested in computer science, data science, and cybersecurity. Establishing these connections early is a fundamental step in developing a strong professional network and finding collaborative opportunities within the tech industry.
+
+Evidence Location: 
+Part_1/A19_CSSC_Membership.png
+
+Part_1/A19_CSSC_NetworkingBBQ.png
+
+Part_1/A19_CSSC_GameNight.png
