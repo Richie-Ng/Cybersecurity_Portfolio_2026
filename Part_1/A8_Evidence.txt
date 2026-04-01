@@ -8,6 +8,6 @@ Methodology (How I did it): I accessed the touch-panel interface of a networked 
 Results & Findings: The device's settings menu confirms that "XPS/OOXML/PDF Digital Signature" is actively toggled ON. This is a direct implementation of cryptography in an IoT endpoint. Digital signatures utilize asymmetric encryption algorithms to guarantee document integrity and non-repudiation. By requiring a digital signature, the printer ensures that print jobs (like sensitive exams or internal university documents) originate from an authenticated source and have not been intercepted or maliciously altered in transit across the campus network.
 
 Evidence Location: 
-Part_1/A8_IoT_CampusPrinter.jpg
+Part_1/A8_IoT_CampusPrinter.png
 
-Part_1/A8_IoT_PrinterCrypto.jpg
+Part_1/A8_IoT_PrinterCrypto.png

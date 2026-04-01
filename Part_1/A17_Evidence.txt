@@ -46,4 +46,4 @@ Part_1/A17_Lock_KeyedPadlock.png
 
 Part_1/A17_Lock_TubularKiosk.png
 
-Part_1/A17_Lock_AutomotiveWafer.jpg
+Part_1/A17_Lock_AutomotiveWafer.png

@@ -9,4 +9,5 @@ Results & Findings: The web browser immediately intercepted the connection, bloc
 
 Vulnerability Justification: This website is fundamentally vulnerable because its SSL/TLS certificate is invalid (e.g., expired, self-signed, or lacking a trusted root authority). A valid certificate is required to establish a secure, encrypted tunnel and to verify the server's true identity. Because this implementation is broken, the connection is highly susceptible to Man-in-the-Middle (MitM) attacks. If a user were to ignore the warning and transmit data (like passwords or session cookies) to this site, an attacker intercepting the network traffic could easily read or alter that data in plain text.
 
-Evidence Location: * Part_1/A4_BadSSL_BrowserWarning.png
+Evidence Location: 
+Part_1/A4_BadSSL_BrowserWarning.png
