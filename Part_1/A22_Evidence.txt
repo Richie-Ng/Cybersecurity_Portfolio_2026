@@ -1,5 +1,5 @@
 Activity ID: A22
-Activity Name: Perform a prompt injection attack on a generative AI assistant.
+Activity Name: A22. Perform a prompt injection attack on a generative AI assistant (controlled test only).
 
 Objective: To conduct a controlled demonstration of a prompt injection vulnerability, illustrating how untrusted user input can manipulate the execution flow of a Large Language Model (LLM).
 

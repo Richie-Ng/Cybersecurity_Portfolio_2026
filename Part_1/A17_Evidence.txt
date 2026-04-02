@@ -1,5 +1,5 @@
 Activity ID: A17
-Activity Name: Discover 10 different types of locks.
+Activity Name: Discover 10 different types of locks in use.
 
 Objective: To identify and categorize a wide variety of physical locking mechanisms used to secure different types of assets, vehicles, and perimeters.
 

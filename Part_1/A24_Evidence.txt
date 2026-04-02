@@ -1,5 +1,5 @@
 Activity ID: A24
-Activity Name: Teach your family about a cybersecurity topic of your choice.
+Activity Name: Teach your family about cybersecurity topic of your choice.
 
 Objective: To help teach and translate technical cybersecurity concepts into accessible, actionable advice for non-technical family members to improve their personal security hygiene.
 

@@ -1,5 +1,5 @@
 Activity ID: A30
-Activity Name: Complete a cybersecurity training module.
+Activity Name: Complete an online cybersecurity module.
 
 Objective: To gain foundational, practical knowledge in cybersecurity concepts by completing interactive, hands-on training modules.
 

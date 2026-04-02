@@ -1,5 +1,5 @@
 Activity ID: A20
-Activity Name: Participate in a discussion with your friends about a cybersecurity event.
+Activity Name: Participate in a discussion with your friends about cybersecurity event.
 
 Objective: To articulate and discuss real-world cybersecurity incidents with peers, demonstrating an understanding of threat vectors and business impacts.
 
