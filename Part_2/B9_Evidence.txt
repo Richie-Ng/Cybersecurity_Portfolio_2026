@@ -1,0 +1,14 @@
+Activity ID: B9
+Activity Name: Participate in an industry-related cybersecurity event.
+
+Objective: To engage with industry professionals outside the academic environment and understand the real-world application of cybersecurity within the broader technology and innovation sectors.
+
+Methodology (How I did it): I attended an in-person, industry hosted technology and innovation event facilitated by PwC. During the event, I participated in sessions discussing the intersection of emerging technology and cybersecurity. I captured photographic evidence of the presentation space (including the PwC Talent Community portal) and myself holding event materials alongside the official PwC corporate banner.
+
+Results & Findings: Participating in the PwC event provided highly valuable industry insights. A core takeaway from the sessions was how cybersecurity is no longer viewed merely as a defensive IT necessity, but rather as a fundamental driver of technological innovation. The discussions emphasized that "secure-by-design" principles are critical when developing new tech solutions in the corporate and financial sectors. Additionally, engaging directly with a major global firm's talent community offered excellent professional networking opportunities and a clearer understanding of what enterprise employers are currently looking for in tech and security graduates.
+
+Evidence Location: 
+
+Part_2/B9_IndustryEvent_PwCPresentation.png
+
+Part_2/B9_IndustryEvent_PwCParticipation.png
