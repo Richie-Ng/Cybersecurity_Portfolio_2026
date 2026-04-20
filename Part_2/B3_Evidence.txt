@@ -7,11 +7,11 @@ Methodology (How I did it): I audited my personal devices and home network infra
 
 Results & Findings: These three examples highlight how proactive security shifts the focus from reactive incident response to threat prevention:
 
-Automated OS Updates (Vulnerability Management): By toggling "Get the latest updates as soon as they're available" in Windows 11, known vulnerabilities are patched proactively the moment fixes roll out. This closes critical attack vectors before threat actors can weaponize new exploits against the endpoint.
+1. Automated OS Updates (Vulnerability Management): By toggling "Get the latest updates as soon as they're available" in Windows 11, known vulnerabilities are patched proactively the moment fixes roll out. This closes critical attack vectors before threat actors can weaponize new exploits against the endpoint.
 
-Browser Safe Browsing (Proactive Threat Blocking): Having "Enhanced protection" enabled in Google Chrome allows the browser to proactively check URLs and downloads against real-time, AI-powered threat intelligence databases. It actively blocks navigation to malicious or phishing domains before a payload can be executed.
+2. Browser Safe Browsing (Proactive Threat Blocking): Having "Enhanced protection" enabled in Google Chrome allows the browser to proactively check URLs and downloads against real-time, AI-powered threat intelligence databases. It actively blocks navigation to malicious or phishing domains before a payload can be executed.
 
-Wireless Network Segmentation: The network environment proactively isolates untrusted or vulnerable devices. By broadcasting dedicated SSIDs for guests (UnifiGuest) and smart devices (UnifiIoT), these are kept completely logically separated from the primary, secured network (Unifi). If an inherently vulnerable IoT device or a guest's phone is compromised, this boundary prevents the lateral movement of malware to critical personal assets.
+3. Wireless Network Segmentation: The network environment proactively isolates untrusted or vulnerable devices. By broadcasting dedicated SSIDs for guests (UnifiGuest) and smart devices (UnifiIoT), these are kept completely logically separated from the primary, secured network (Unifi). If an inherently vulnerable IoT device or a guest's phone is compromised, this boundary prevents the lateral movement of malware to critical personal assets.
 
 Evidence Location: 
 
