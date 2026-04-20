@@ -1,0 +1,14 @@
+Activity ID: B13
+Activity Name: Perform a jailbreak attack on a generative AI assistant (controlled test only).
+
+Objective: To practically demonstrate the vulnerabilities of Large Language Models (LLMs) to prompt injection, and to understand how threat actors can bypass automated safety guardrails using social engineering techniques.
+
+Methodology (How I did it): I conducted a controlled prompt injection test on a generative AI model. My goal was to trick the AI into generating a malicious artifact (a targeted phishing email), which normally violates its safety policies. To bypass these filters, I employed a "persona adoption" and "educational framing" jailbreak technique. I instructed the AI to assume the role of a cybersecurity professor writing a fictional novel, thereby masking the malicious request inside a safe, academic context.
+
+Results & Findings: The jailbreak attack was entirely successful. By framing the request within a fictional and educational narrative, the AI's semantic safety filters failed to recognize the malicious intent. The model complied fully, generating a highly realistic, targeted phishing email complete with advanced social engineering tactics (urgency, authority spoofing, and personalization). This exercise proves that AI safety guardrails are highly dependent on contextual framing and can be effectively manipulated by threat actors using creative prompt engineering.
+
+Evidence Location: 
+
+Part_2/B13_Jailbreak_Prompt.png
+
+Part_2/B13_Jailbreak_Response.png
