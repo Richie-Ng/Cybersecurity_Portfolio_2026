@@ -1,0 +1,22 @@
+Activity ID: B3
+Activity Name: Discover 3 proactive security implementations in practice.
+
+Objective: To identify and document everyday security controls designed to anticipate and neutralize cyber threats before a compromise can occur, demonstrating an understanding of proactive defense-in-depth.
+
+Methodology (How I did it): I audited my personal devices and home network infrastructure to identify active, proactive security measures. I captured screenshots of three distinct implementations: automated patch management in Windows 11, browser-based threat blocking in Google Chrome, and wireless network segmentation.
+
+Results & Findings: These three examples highlight how proactive security shifts the focus from reactive incident response to threat prevention:
+
+Automated OS Updates (Vulnerability Management): By toggling "Get the latest updates as soon as they're available" in Windows 11, known vulnerabilities are patched proactively the moment fixes roll out. This closes critical attack vectors before threat actors can weaponize new exploits against the endpoint.
+
+Browser Safe Browsing (Proactive Threat Blocking): Having "Enhanced protection" enabled in Google Chrome allows the browser to proactively check URLs and downloads against real-time, AI-powered threat intelligence databases. It actively blocks navigation to malicious or phishing domains before a payload can be executed.
+
+Wireless Network Segmentation: The network environment proactively isolates untrusted or vulnerable devices. By broadcasting dedicated SSIDs for guests (UnifiGuest) and smart devices (UnifiIoT), these are kept completely logically separated from the primary, secured network (Unifi). If an inherently vulnerable IoT device or a guest's phone is compromised, this boundary prevents the lateral movement of malware to critical personal assets.
+
+Evidence Location: 
+
+Part_2/B3_Proactive_AutoUpdates.png
+
+Part_2/B3_Proactive_SafeBrowsing.png
+
+Part_2/B3_Proactive_NetworkSegmentation.png

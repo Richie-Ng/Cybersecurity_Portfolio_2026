@@ -11,7 +11,7 @@ Week 3 Lab (Quantitative Analysis): Participated in a quantitative problem-solvi
 
 Week 4 Lab (Access Control Modeling): Collaborated with Kelly and Daniel to design a creative, attribute-based access control (ABAC) policy. We established specific, arbitrary attributes (e.g., "Laptop CPU must be Intel," "Must have an 'e' in their name") to demonstrate how system rules are logically constructed to grant or deny access based on user characteristics.
 
-Week 8 Lab (Physical Security & Safety Audit): Conducted an environmental security audit of our physical lab space with a larger team. We evaluated the area against specific security and safety criteria—such as door lock mechanisms, CCTV monitoring coverage, and AED accessibility—and documented our justifications in a formal matrix.
+Week 8 Lab (Physical Security & Safety Audit): Conducted an environmental security audit of our physical lab space with a larger team. We evaluated the area against specific security and safety criteria such as door lock mechanisms, CCTV monitoring coverage, and AED accessibility and documented our justifications in a formal matrix.
 
 Evidence Location: 
 
