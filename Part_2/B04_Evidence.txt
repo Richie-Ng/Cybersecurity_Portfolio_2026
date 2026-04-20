@@ -1,0 +1,22 @@
+Activity ID: B04
+Activity Name: Participate in 3 in-class activities in labs.
+
+Objective: To actively engage in collaborative, facilitator-led lab activities that apply theoretical cybersecurity concepts to practical, team-based scenarios.
+
+Methodology (How I did it): I attended my scheduled CITS2006 labs and participated in three distinct group activities administered by our lab facilitator, Robin. For each weekly activity, I collaborated with my lab peers to solve security challenges and obtained Robin's physical signature on our group's working papers as proof of participation.
+
+Results & Findings: The three lab activities covered a diverse range of security topics:
+
+Week 3 Lab (Quantitative Analysis): Participated in a quantitative problem-solving and calculation exercise with my peer, utilizing tools like Desmos to work through the lab's mathematical requirements.
+
+Week 4 Lab (Access Control Modeling): Collaborated with Kelly and Daniel to design a creative, attribute-based access control (ABAC) policy. We established specific, arbitrary attributes (e.g., "Laptop CPU must be Intel," "Must have an 'e' in their name") to demonstrate how system rules are logically constructed to grant or deny access based on user characteristics.
+
+Week 8 Lab (Physical Security & Safety Audit): Conducted an environmental security audit of our physical lab space with a larger team. We evaluated the area against specific security and safety criteria—such as door lock mechanisms, CCTV monitoring coverage, and AED accessibility—and documented our justifications in a formal matrix.
+
+Evidence Location: 
+
+Part_2/B04_Lab_Week3_Calculations.png
+
+Part_2/B04_Lab_Week4_AccessControl.png
+
+Part_2/B04_Lab_Week8_SecurityAudit.png
