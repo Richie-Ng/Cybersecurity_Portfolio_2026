@@ -1,4 +1,4 @@
-Activity ID: B04
+Activity ID: B4
 Activity Name: Participate in 3 in-class activities in labs.
 
 Objective: To actively engage in collaborative, facilitator-led lab activities that apply theoretical cybersecurity concepts to practical, team-based scenarios.
@@ -15,8 +15,8 @@ Week 8 Lab (Physical Security & Safety Audit): Conducted an environmental securi
 
 Evidence Location: 
 
-Part_2/B04_Lab_Week3_Calculations.png
+Part_2/B4_Lab_Week3_Calculations.png
 
-Part_2/B04_Lab_Week4_AccessControl.png
+Part_2/B4_Lab_Week4_AccessControl.png
 
-Part_2/B04_Lab_Week8_SecurityAudit.png
+Part_2/B4_Lab_Week8_SecurityAudit.png
