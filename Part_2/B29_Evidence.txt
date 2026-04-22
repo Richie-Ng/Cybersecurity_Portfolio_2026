@@ -1,0 +1,26 @@
+Activity ID: B29
+Activity Name: Find a CVE in this year and fix it using three different generative AI systems (e.g., ChatGPT, Gemini), comparing the consistency.
+
+Objective: To evaluate and compare the consistency, accuracy, and remediation approaches of different generative AI models when tasked with patching a recent, real-world software vulnerability.
+
+Methodology (How I did it): I researched a recently disclosed vulnerability from this year, CVE-2026-30557, which involves a Reflected Cross-Site Scripting (XSS) flaw in the PHP-based Sales and Inventory System. I extracted the vulnerable code snippet (where $_GET['msg'] is passed into HTML and JavaScript without sanitization) and prompted three different generative AI systems (Gemini, ChatGPT, and Perplexity AI) to identify the flaw and generate a secure patch. I then analyzed their outputs for consistency.
+
+Results & Findings: 
+
+1. Consistency: All three models successfully identified the dual-context nature of the XSS vulnerability. Remarkably, all three consistently recommended the exact same core mitigation strategy: using htmlspecialchars() for the HTML string context, and using json_encode() to safely serialize the PHP variable before passing it into the JavaScript jAlert() function.
+
+2. Differences in Remediation: While the core fixes were identical, the peripheral implementations varied. ChatGPT took the extra initiative to reorder the <script> tags to fix a potential jQuery dependency error that wasn't even part of the security flaw. Perplexity applied stricter, more explicit flags to its functions (e.g., ENT_QUOTES | ENT_SUBSTITUTE and JSON_UNESCAPED_UNICODE). ChatGPT provided the most straightforward, cleanly commented step-by-step fix.
+
+Conclusion: Generative AI is highly consistent at identifying standard web vulnerabilities and recommending industry-standard PHP functions. However, developers must still review the output, as some models (like Gemini) may alter the structural flow of the file (like script loading orders) which could break existing application functionality.
+
+Evidence Location: 
+
+Part_2/B29_Vulnerable_Code.png
+
+Part_2/B29_Prompt.png
+
+Part_2/B29_AI_ChatGPT.png
+
+Part_2/B29_AI_Gemini.png
+
+Part_2/B29_AI_Perplexity.png
