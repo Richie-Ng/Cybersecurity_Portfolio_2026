@@ -1,0 +1,26 @@
+Activity ID: B30
+Activity Name: Generate an AI-created image, applying an imperceptible watermark on it and then perform an image-to-image regeneration or editing process to make sure the watermark is detectable---the watermark survives.
+
+Objective: To demonstrate the application and resilience of invisible steganographic watermarks in tracking AI-generated media provenance, even after manual post-processing and pixel alteration.
+
+Methodology (How I did it): I generated a base AI image of a dog in a tent and utilized a custom Python script (B30_embed.py) implementing the invisible-watermark library to embed a secret cryptographic payload ("Richie_B30"). The script used a DWT-DCT (Discrete Wavelet Transform - Discrete Cosine Transform) algorithm, which hides the data deeply within the image's frequency domain rather than altering spatial pixels. I then opened the watermarked image in a standard image editing application and performed a manual editing process (drawing text directly over the image) without changing the overall resolution. Finally, I ran a decoding Python script (B30_extract.py) on the altered image.
+
+Results & Findings: The steganographic watermark successfully survived the manual editing process. The decoder accurately extracted the string "Richie_B30" from the modified image, despite the localized pixel alterations. This exercise proves that frequency-domain watermarking is highly robust against surface-level tampering, making it a viable enterprise solution for enforcing AI provenance even if a user attempts to manually "paint over" the watermarked image.
+
+Evidence Location: 
+
+Part_2/B30_embed.py (Source Code)
+
+Part_2/B30_extract.py (Source Code)
+
+Part_2/B30_Base.png
+
+Part_2/B30_Watermarked.png
+
+Part_2/B30_Edited.png
+
+Part_2/B30_Step1_Embed.png
+
+Part_2/B30_Step2_Manual_Edit.png
+
+Part_2/B30_Step3_Extract.png
