@@ -1,0 +1,13 @@
+Activity ID: B28
+Activity Name: Produce a cyber safety flyer for (choose 1): elders, high school students, CEOs, Uni students.
+
+Objective: To translate technical security threats into actionable, easy-to-understand awareness material tailored to a specific demographic's daily habits and risks.
+
+Methodology (How I did it): I chose "Uni Students" as my target audience. I designed a visual cyber safety flyer aimed at mitigating the most common attack vectors students face on campus. The flyer focuses on four key areas: securing wireless communications (using Eduroam over open Wi-Fi), identifying student-targeted phishing campaigns (fake employment scams), maintaining physical endpoint security in public study spaces, and practicing good credential hygiene (using password managers).
+
+Results & Findings: The final flyer condenses complex cybersecurity hygiene into a scannable, visually engaging format. By grounding the advice in scenarios university students actually experience (like leaving a laptop in the library or checking student emails), the awareness material bridges the gap between technical policy and everyday human behavior.
+
+Evidence Location: 
+Part_2/B28_CyberFlyer_UniStudents.png
+
+Part_2/B28_CyberFlyer_UniStudents.pdf
