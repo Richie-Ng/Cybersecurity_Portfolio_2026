@@ -1,0 +1,24 @@
+Activity ID: B21
+Activity Name: Design and implement a cybersecurity learning activity.
+
+Objective: To design and facilitate an engaging, gamified learning experience that tests and reinforces foundational cybersecurity hygiene concepts for a general audience.
+
+Methodology (How I did it): I utilized the Kahoot! platform to design a 10-question interactive learning activity titled "Everyday Cyber Survival Tips." The quiz was specifically engineered to address common security misconceptions, covering topics such as identifying phishing attacks, the superiority of passphrases over complex short passwords, the function of MFA, the risks of open Wi-Fi, and the critical importance of patching. I then implemented the activity by generating a live session and flashcard study modes, allowing users to test their knowledge in real-time.
+
+Results & Findings: The gamified format proved highly effective at maintaining engagement while delivering critical security education. The immediate feedback loop provided by the platform (showing correct/incorrect answers instantly) allowed for real-time correction of misconceptions. By mixing multiple-choice scenario questions with true/false myth-busters, the activity successfully translated dry security policies into an accessible, competitive format.
+
+Live Link: https://create.kahoot.it/share/everyday-cyber-survival-tips/319750ef-68c9-4ba9-9e21-9e6f305af8e7
+
+Evidence Location: 
+
+Part_2/B21_Kahoot_Summary.pdf (Full question & answer key)
+
+Part_2/B21_Kahoot_Dashboard.png
+
+Part_2/B21_Kahoot_Live_Question.png
+
+Part_2/B21_Kahoot_Podium.png
+
+Part_2/B21_Kahoot_Flashcard.png
+
+Part_2/B21_Kahoot_Completion.png
