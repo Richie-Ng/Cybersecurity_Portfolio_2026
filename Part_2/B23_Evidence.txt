@@ -1,0 +1,19 @@
+Activity ID: B23
+Activity Name: Test an intrusion detection system and discuss its effectiveness.
+
+Objective: To deploy a network-based Intrusion Detection System (IDS), configure custom signature rules, and evaluate the effectiveness and limitations of signature-based threat detection.
+
+Methodology (How I did it): I utilized Snort 3, an open-source network intrusion detection system, on a Kali Linux environment. I engineered a custom local rule file (B23.rules) containing a signature designed to detect and alert on ICMP (ping) traffic, utilizing my own unique identifier (sid:1000001). I initialized Snort using its Lua configuration in alert_fast mode, binding it to the loopback interface (lo). In a secondary terminal, I simulated a reconnaissance ping sweep against the local host (127.0.0.1) to trigger the detection engine.
+
+Results & Findings: Snort successfully intercepted the packets in real-time and generated the custom terminal alerts ("ICMP Ping Attack Detected - Richie B23"), validating the configuration and the engine's active listening state.
+
+Discussion on Effectiveness: 
+Strengths: As demonstrated by the immediate terminal output, signature-based IDS is highly effective and computationally efficient at identifying known threats, misconfigurations, and standard reconnaissance tactics (like ICMP sweeps or known malware beaconing) with near-zero false positives, provided the rule is written strictly.
+
+Weaknesses: The primary limitation of this system is that it is purely reactive. Because it relies on predefined signatures, it is completely blind to "zero-day" attacks for which no signature yet exists. Furthermore, without implementing deep packet inspection and SSL/TLS decryption, modern IDS struggles to evaluate the payloads of encrypted traffic, allowing advanced attackers to tunnel malicious commands right past the sensors.
+
+Evidence Location: 
+
+Part_2/B23_Snort_Alert.png
+
+Part_2/B23.rules (Source Code)
