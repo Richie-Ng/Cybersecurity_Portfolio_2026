@@ -1,0 +1,28 @@
+Activity ID: B27
+Activity Name: Apply a learned concept in this unit to a real-world application/problem/environment.
+
+Objective: To practically apply the cybersecurity concepts of Role-Based Access Control (RBAC), the Principle of Least Privilege (PoLP), and Multi-Factor Authentication (MFA) to harden a real-world enterprise/community communication platform.
+
+Methodology (How I did it): I created and secured a Discord server by directly translating theoretical access controls into UI configurations:
+
+1. RBAC & Zero Trust: I stripped the default @everyone role of posting and event-creation privileges to mitigate automated spam and enforce a baseline of zero trust.
+
+2. Principle of Least Privilege (PoLP): I established a strict role hierarchy. I explicitly ensured the "Moderators" role was granted only specific moderation tools and was denied the overarching "Administrator" toggle, reserving that solely for the "Big Boss" role.
+
+3. MFA & Identity Verification: I hardened the server against Account Takeover (ATO) attacks and sybil bot attacks by enabling "Require 2FA for moderator actions" and setting the baseline server verification level to "Highest" (requiring a verified phone number).
+
+Results & Findings: This implementation successfully demonstrates how textbook cybersecurity frameworks are deployed in commercial software. The environment is now highly resilient against lateral movement: if a standard user is compromised, they cannot alter the server (due to restricted baseline permissions), and if a moderator is targeted by an ATO attack, the threat actor cannot utilize the moderation privileges without bypassing the enforced MFA requirement.
+
+Evidence Location: 
+
+Part_2/B27_Discord_Role_Hierarchy.png
+
+Part_2/B27_Role_Admin_BigBoss.png
+
+Part_2/B27_Role_LeastPrivilege_Moderator.png
+
+Part_2/B27_Role_VerifiedUsers.png
+
+Part_2/B27_Role_Restricted_Everyone.png
+
+Part_2/B27_Discord_Safety_MFA.png
