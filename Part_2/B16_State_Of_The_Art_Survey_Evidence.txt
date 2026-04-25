@@ -1,0 +1,14 @@
+Activity ID: B16
+Activity Name: Survey the current state-of-the-art solutions in cybersecurity.
+
+Objective: To research, survey, and evaluate the current state-of-the-art (SotA) solutions dominating the modern cybersecurity landscape, moving beyond legacy perimeter defenses to analyze next-generation architectural and cryptographic defenses.
+
+Methodology (How I did it): I conducted a comprehensive landscape analysis of current enterprise cybersecurity trends. My research focused on three primary pillars designed to combat advanced persistent threats (APTs) and future vulnerabilities: Extended Detection and Response (XDR) utilizing behavioral AI, Zero Trust Architecture (ZTA) eliminating traditional network perimeters, and Post-Quantum Cryptography (PQC) securing data against future quantum computing attacks. I also captured official framework documentation from CISA and NIST to validate these trends with authoritative sources.
+
+Results & Findings: The survey revealed a massive industry shift from reactive, signature-based tools to proactive, AI-driven, and context-aware architectures. Specifically, XDR provides automated behavioral anomaly detection rather than relying on known malware signatures. ZTA enforces strict identity verification and micro-segmentation ("never trust, always verify") regardless of the user's location. Finally, PQC algorithms (like Kyber and Dilithium) are actively being deployed to defend against "harvest now, decrypt later" strategies, proving the industry is rapidly evolving to meet highly sophisticated, automated threats.
+
+Evidence Location: 
+
+Part_2/B16_CISA_ZeroTrust.png (Authoritative Source: US Govt Zero Trust Framework)
+
+Part_2/B16_NIST_PQC.png (Authoritative Source: NIST Post-Quantum Cryptography Project)
