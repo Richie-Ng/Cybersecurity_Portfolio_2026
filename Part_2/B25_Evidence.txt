@@ -1,0 +1,14 @@
+Activity ID: B25
+Activity Name: Design and implement a threat intelligence module of your choice.
+
+Objective: To design and program an automated Threat Intelligence (TI) module capable of fetching, parsing, and formatting real-time Indicators of Compromise (IOCs) from a global Open-Source Intelligence (OSINT) feed.
+
+Methodology (How I did it): I engineered a custom Python script (B25_Threat_Intel.py) utilizing the urllib and csv libraries to act as a programmatic TI aggregator. The module connects to the live API/CSV endpoint of URLhaus (Abuse.ch), a renowned project that tracks malware distribution sites. The script downloads the latest global telemetry, parses the structured data, filters out offline/dead links, and extracts the top active malicious URLs along with their logged tracking IDs.
+
+Results & Findings: The module successfully executed in a Kali Linux environment, establishing a secure connection to the OSINT feed and extracting live, actionable IOCs in real-time. This script demonstrates the foundational mechanics behind how enterprise SIEMs (Security Information and Event Management systems) ingest external threat data to dynamically update network firewalls and DNS blocklists.
+
+Evidence Location: 
+
+Part_2/B25_Threat_Intel.py (Source Code)
+
+Part_2/B25_TI_Module_Output.png (Code and Terminal Execution)
