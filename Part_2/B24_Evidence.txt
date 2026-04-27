@@ -1,0 +1,14 @@
+Activity ID: B24
+Activity Name: Design and implement access control of your choice.
+
+Objective: To programmatically design and implement a Role-Based Access Control (RBAC) architecture, demonstrating the separation of authentication (identity verification) and authorization (privilege validation).
+
+Methodology (How I did it): I designed a custom Access Control engine using Python. The architecture relies on an internal Access Control Matrix that maps specific system roles ("Administrator", "Analyst", "Guest") to allowed resources. Users are assigned a role within a central identity database. The core logic function (request_access) acts as the gatekeeper: it first verifies the user's identity, extracts their assigned role, and then cross-references their role against the requested resource.
+
+Results & Findings: The script successfully simulated a zero-trust verification process. It granted access when roles aligned with resource permissions (e.g., the Administrator accessing classified intel) and effectively blocked simulated lateral movement and privilege escalation attempts (e.g., an Analyst attempting to view classified intel, and an unregistered user attempting to view public files). This implementation proves the efficacy of RBAC in enforcing the Principle of Least Privilege at the software level.
+
+Evidence Location: 
+
+Part_2/B24_Access_Control.py (Source Code)
+
+Part_2/B24_RBAC_Execution.jpg (Code and Terminal Execution)
