@@ -1,0 +1,18 @@
+Activity ID: B17
+Activity Name: Implement one of the current state-of-the-art solutions and evaluate it.
+
+Objective: To practically implement and critically evaluate a state-of-the-art (SotA) Extended Detection and Response (XDR) behavioral AI engine, moving beyond legacy signature-based detection.
+
+Methodology (How I did it): Drawing from the SotA survey in B16, I implemented a custom XDR behavioral analysis module using Python and the scikit-learn machine learning library. I utilized an Isolation Forest algorithm—an unsupervised machine learning model specifically designed for anomaly detection. I fed the model a dataset of simulated network telemetry (tracking login hours, authentication attempts, and data transfer volumes) containing standard baseline behavior and one Advanced Persistent Threat (APT) data exfiltration event.
+
+Results & Findings: The AI model successfully trained on the dataset and mathematically isolated the threat actor based purely on behavioral deviance (a 3:00 AM login with 45 attempts and 950MB of data transfer), outputting a critical alert without requiring a static hash or signature.
+
+Evaluation of the Solution: * Effectiveness: This SotA approach is highly effective against "Zero-Day" attacks and insider threats. Because it establishes a behavioral baseline, it can catch compromised credentials even if the attacker uses legitimate network tools that traditional Antivirus would ignore.
+
+Limitations: The primary drawback of behavioral AI is the tuning phase. In this implementation, the contamination parameter had to be predefined. In a real-world enterprise, if the algorithm is too sensitive, it will generate "alert fatigue" by flagging normal employees working unusual hours as critical threats.
+
+Evidence Location: 
+
+Part_2/B17_XDR_AI.py (Source Code)
+
+Part_2/B17_XDR_Evaluation.png (Terminal Execution)
