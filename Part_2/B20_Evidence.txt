@@ -1,0 +1,14 @@
+Activity ID: B20
+Activity Name: Enhance the security of a GitHub project.
+
+Objective: To implement foundational DevSecOps practices by hardening a GitHub repository against vulnerable dependencies and establishing a coordinated vulnerability disclosure process.
+
+Methodology (How I did it): I enhanced the security posture of my project repository by implementing essential repository controls. First, I authored and committed a SECURITY.md policy document and linked it to GitHub's native "Private vulnerability reporting" feature. This establishes a secure, private reporting channel for ethical hackers, preventing zero-day public disclosures. Second, I configured the repository's backend Advanced Security settings to enable Dependabot alerts and automated Secret Protection scanning.
+
+Results & Findings: The repository is now actively monitored by automated security tooling. Any accidentally committed secrets (such as API keys or access tokens) will be instantly flagged, and outdated libraries will trigger automated security alerts for patching. This significantly reduces the project's supply-chain attack surface and aligns the repository with modern CI/CD security standards.
+
+Evidence Location: 
+
+SECURITY.md (Root Directory)
+
+Part_2/B20_Security_Settings.png (GitHub Settings Configuration)
