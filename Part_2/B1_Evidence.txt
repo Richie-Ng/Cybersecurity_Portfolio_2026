@@ -1,0 +1,30 @@
+Activity ID: B1
+Activity Name: Discover 5 unique weak/vulnerable security implementations.
+
+Objective: To conduct passive reconnaissance to identify and document five distinct security misconfigurations, outdated protocols, or weak implementations in real-world web infrastructure.
+
+Methodology & Findings: I surveyed various websites and utilized developer tools/header scanners to capture live examples of security flaws. The discovered vulnerabilities span across multiple domains:
+
+Insecure Protocol (HTTP): Captured an active web server (wayback.archive.org) failing to enforce HTTPS, leaving the connection unencrypted and rendering it highly susceptible to Man-in-the-Middle (MitM) attacks.
+
+Information Disclosure (Leaky Server Header): Documented a live web server (acme.com) broadcasting its exact legacy software version (mini_httpd/1.31) in the HTTP response headers, providing threat actors with the reconnaissance data needed to execute targeted exploits.
+
+Missing Security Headers: Utilized an automated scanner to document a site lacking modern HTTP response headers (scoring an 'F' grade for missing HSTS, CSP, and X-Frame-Options), leaving it exposed to cross-site scripting (XSS) and clickjacking.
+
+Weak Access Controls (Password Policy): Captured a legacy registration portal (Myspace) enforcing an inadequate password complexity baseline (allowing a minimum of just 6 characters), rendering user accounts highly vulnerable to offline dictionary attacks and brute-forcing.
+
+Missing Bot Mitigation: Documented an exposed authentication portal failing to trigger CAPTCHA or visible rate-limiting mechanisms after failed login attempts, serving as an unprotected endpoint for automated credential stuffing.
+
+Results: Successfully identified and documented five distinct, real-world security weaknesses, demonstrating how the absence of "Defense in Depth" significantly increases a network's attack surface.
+
+Evidence Location: 
+
+Part_2/B1_1_HTTP.png
+
+Part_2/B1_2_Server_Header.png
+
+Part_2/B1_3_Missing_Headers.png
+
+Part_2/B1_4_Weak_Password.png
+
+Part_2/B1_5_No_Captcha.png
