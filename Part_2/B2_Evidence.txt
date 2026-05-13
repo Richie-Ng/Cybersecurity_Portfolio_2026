@@ -1,0 +1,29 @@
+Activity ID: B2
+Activity Name: Discover 5 unique strong security implementations.
+
+Objective: To conduct real-world reconnaissance to identify and document five distinct, active security controls representing "Defense in Depth" across modern web infrastructure.
+
+Methodology & Findings: I surveyed various enterprise platforms to capture live implementations of critical security controls. The discovered implementations span across multiple security domains:
+
+1. Authentication (MFA): Captured a live prompt requiring an email-based One-Time Password (OTP) verification on Epic Games, demonstrating protection against credential stuffing and password breaches.
+
+2. Bot-Mitigation (CAPTCHA/JS Challenge): Documented a live Cloudflare security verification challenge designed to analyze browser fingerprints and distinguish human operators from automated scraping/brute-force scripts.
+
+3. Input Validation (Complexity Enforcement): Captured active client-side password complexity enforcement (requiring 7+ characters, numbers, letters, and no whitespace) on the Epic Games registration portal, establishing a baseline defense against dictionary attacks.
+
+4. Encryption/Identity (PKI Certificate): Examined an active x.509 Digital Certificate (DigiCert ECC SHA384) on the Steam storefront, verifying identity and facilitating the asymmetric encryption handshake for a secure TLS connection.
+
+5. Network Policy (HSTS Header): Captured an HTTP Strict Transport Security (HSTS) response header via developer tools on GitHub's architecture, demonstrating a server-side mandate preventing protocol downgrade attacks and cookie hijacking.
+
+Results: Successfully identified and documented five distinct state-of-the-art security implementations, proving the widespread adoption of layered security models in production environments.
+
+Evidence Location: 
+Part_2/B2_1_MFA.png
+
+Part_2/B2_2_CAPTCHA.png
+
+Part_2/B2_3_Complexity.png
+
+Part_2/B2_4_Certificate.png
+
+Part_2/B2_5_HSTS_Header.png
