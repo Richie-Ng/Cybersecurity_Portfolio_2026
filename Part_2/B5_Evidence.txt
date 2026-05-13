@@ -1,0 +1,20 @@
+Activity ID: B5
+Activity Name: Attend 2 cybersecurity related talks/seminars.
+
+Objective: To engage with the broader cybersecurity community, gain industry insights, and learn about real-world applications and historical precedents of network security.
+
+Methodology & Findings: I attended two distinct professional and academic cybersecurity seminars to bridge theoretical knowledge with practical industry application:
+
+1. Industry Seminar (Water Corporation): Attended a corporate presentation detailing the critical importance of cybersecurity within the utilities and national infrastructure sector. The talk focused on the operational security (OpSec) required to maintain and protect sensitive customer data and critical infrastructure from modern threat actors.
+
+2. Academic/Historical Tech Talk ("Into the Cuckoo's Egg"): Attended a deep-dive cybersecurity presentation hosted by the University Computer Club (UCC) and presented by Mark Tearle. The seminar covered the legendary 1986 digital spy-hunt conducted by Clifford Stoll at the Lawrence Berkeley National Laboratory. This provided valuable context on the foundational methodologies of digital forensics, honeypots, and intrusion detection.
+
+Results: Successfully engaged with both modern enterprise data protection strategies and historical incident response methodologies, broadening my understanding of the cybersecurity landscape.
+
+Evidence Location: 
+
+Part_2/B5_1_WaterCorp_Talk.png (Live Event Attendance)
+
+Part_2/B5_2_CuckoosEgg_Talk.png (Live Event Attendance)
+
+Part_2/B5_3_CuckoosEgg_Poster.png (Event Documentation)
