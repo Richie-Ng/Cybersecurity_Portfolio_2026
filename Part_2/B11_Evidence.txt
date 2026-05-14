@@ -1,0 +1,16 @@
+Activity ID: B11
+Activity Name: Talk to 2 cybersecurity experts from the industry and find out their latest projects.
+
+Objective: To network with industry professionals and gain insights into real-world projects involving secure infrastructure, data management, and enterprise software engineering.
+
+Methodology & Findings: I conducted an interview with two highly experienced IT and infrastructure experts whose work heavily involves securing, managing, and transporting sensitive data at the enterprise and national research levels.
+
+1. Expert 1: Alex Dawson (Data Storage & Management Consultant, NetApp): With a 25-year career spanning systems administration and genetics research data consulting, Alex's latest projects involve providing secure data storage and management consulting for major enterprise clients, specifically the University of Western Australia (UWA), BHP, and Rio Tinto. His work ensures the integrity and availability of massive, highly sensitive corporate and research datasets.
+
+2. Expert 2: Mark Tearle (Senior Software Engineer, QCIF): Mark's latest primary project is the technical management and enhancement of the Bioplatforms Australia Data Portal (BPA-DP). This requires securing a massive national repository housing sensitive life sciences research data, including raw sequence data and molecular metadata. Previously, he designed the fiber infrastructure for the Square Kilometre Array (SKA) radio telescope, ensuring the secure and reliable transport of control data.
+
+Results: Gained highly valuable, real-world perspective on how data security, infrastructure integrity, and secure access portals are implemented at the highest levels of national research and global enterprise.
+
+Evidence Location: 
+
+Part_2/B11_Expert_Interview.png (Interview Documentation)
